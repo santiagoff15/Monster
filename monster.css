@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.img {
+width: 100%;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+}
+header{
+    padding: 15px;
+background-color: #17063A;
+text-align: center;
+font-size: small;
+}
+body{
+    background-color: #7B84AE;  
+}
+main{
+text-align: center;
+display: flex;
+justify-content: center;
+margin: 0px;
+margin-left: 120px;
+margin-right: 120px;
+background-color: #452F74;
+}
+footer{
+    background-color: #17063A;
+    border: 10px 25px;
+    padding: 60px;
+}
+p{
+    color: #8B7AAE;
+}
+h3{
+    color: #8B7AAE;
+}
+
+.caja{
+    width: 250px;
+    background-color: #655091;
+    margin: 60px;
+    border-radius: 10px;
+    border: #17063A solid 10px;
+}
+header h1{
+    font-family: 'Koulen', cursive  ;
+    color: #8B7AAE;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+header p{
+
+}
+nav{
+    display: flex;
+    margin-left: 100px;
+}
+#menu li{
+    background-color: #477187;
+    border: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    color: white;
+display: inline;
+border: thick double #06b5fa;
+}
+a{
+    margin-left: 5px;
+    margin-right: 5px;
+    background-color: #477187;
+    color: white;
+}
+h1{
+    font-family: 'Koulen', cursive;
+}
+#menu div{
+    border-color: brown;
+}
+#main2{
+    text-align: left;
+    display: flex;
+justify-content: left;
+padding: 50px;
+}
+input{
+    border-bottom: black solid 2px;
+    background-color: transparent;
+    border-top: transparent solid ;
+    border-left: transparent solid ;
+    border-right: transparent solid ;
+}
+#submit{
+    border-radius: 20px;
+    background-color: white;
+    border: black solid 2px;
+    padding:10px;
+}
+#button{
+    border-radius: 20px;
+    background-color: white;
+    border: black solid 2px;
+    padding:10px;
+}
+#eyey div{
+    border-color: brown;
+}
+#eyey li{
+    background-color: #477187;
+    border: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    padding: 10px;
+    color: white;
+display: inline;
+border: thick double #06b5fa;
+}
+#menu{
+    margin-top: 20px;
+}
+#eyey{
+    margin-top: 20px;
+}
